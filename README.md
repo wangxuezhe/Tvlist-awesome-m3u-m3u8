@@ -15,6 +15,7 @@
 - [插件](#插件)
 - [视频教程](#视频教程)
 - [文章](#文章)
+- [赞助者](#赞助商)
 
 
 ### 更新
@@ -223,6 +224,7 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 插件
 
 - [Kodi 插件推荐](Kodi-addons.md)
+- [XBMC Media Center 中国专用：脚本、插件、皮肤。](https://github.com/taxigps/xbmc-addons-chinese)
 
 ## 视频教程
 - [How to play an m3u file with VLC media player - YouTube](https://www.youtube.com/watch?v=WlojFZW4kP0)
@@ -236,3 +238,22 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 文章
 - [IPTV M3U FREE - IPTV Links](https://iptvgratuit.xyz/)
 - [python iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)
+
+
+<object type="image/svg+xml" data="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/tiers/backer.svg?avatarHeight=36&width=600"></object>
+
+## 赞助商
+
+通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [ [成为赞助商](https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor) ]
+
+<a href="https://geckorelay.me/" target="_blank"><img src="https://i.loli.net/2020/07/01/3fP8gciQ1IAGnk6.png" width="300px"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
+
+## 贡献者
+
+这个项目的存在要感谢所有贡献者。
+请给我们一个 🌟 Star 🌟支持我们。 谢谢。
+并感谢所有支持者！ 🙏
+
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#backers" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/contributors.svg?width=890" /></a>
